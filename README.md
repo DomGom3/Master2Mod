@@ -1,7 +1,7 @@
 # Master2Mod
-Repositorio examen módulo 2
+Repositorio creado para el Examen del módulo 2
 
-## Procedimiento
+## Procedimiento Realizado
 
 ### Importe de Librerías
 
