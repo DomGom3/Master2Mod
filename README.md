@@ -20,7 +20,7 @@ Una vez realizada la limpieza de los datos, se realizó la matriz de correlació
 
 ### Modelos
 
-Se aplicó los modelos: K vecinos, Árbol de decisión y Random Forest al dataset. En donde se probó con distintos parámetros de regularización y se seleccionó los mejores en base a los porcentajes de error obtenidos, adicionalmente se realizó  matriz de confusión de cada uno de los modelos concentrándome en la matriz de los datos de testing principalmente en los falsos negativos (ya que estos como se menciona son los más críticos al momento de la valoración de las pacientes). 
+Se aplicó los modelos: K vecinos, Árbol de decisión y Random Forest al dataset. Se probó con distintos parámetros de regularización y se seleccionó los mejores en base a los porcentajes de error obtenidos, adicionalmente se realizó la  matriz de confusión de cada uno de los modelos concentrándose en la matriz de los datos de testing principalmente en los falsos negativos (ya que estos como se menciona son los más críticos al momento de la valoración de las pacientes). 
 
 ### Conclusión
 Se observó que el modelo con mejor rendimiento fue el modelo de Random Forest con profundidad de 6, mismo que proporciono la menor cantidad de falsos negativos (2) en comparación al resto de modelos aplicados.  
