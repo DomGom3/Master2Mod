@@ -1,5 +1,5 @@
 # Master2Mod
-Repositorio creado para el Examen del módulo 2
+Repositorio creado para el examen del módulo 2
 
 ## Procedimiento Realizado
 
