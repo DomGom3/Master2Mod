@@ -25,8 +25,10 @@ Se aplicó los modelos: k vecinos, árbol de decisión y random forest al datase
 ### Conclusión
 Se observó que el modelo con mejor rendimiento fue el modelo de Random Forest con profundidad de 6, mismo que proporciono la menor cantidad de falsos negativos (2) en comparación al resto de modelos aplicados.
 
-**Realizado por:** 
-Doménica Gómez
-Modelos y Aprendizajes
+  
+**Realizado por:**  
+
+Doménica Gómez  
+Modelos y Aprendizajes  
 EIG-UIDE
 
